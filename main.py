@@ -46,7 +46,7 @@ for c in range(0,5):
     print("a previsão para o dia {} é de {}".format(dia, previsao[c]))
     dia+=1
 
-#Crianco um gráfico para melhor visualização do dados
+#Criando um gráfico para melhor visualização do dados
 
 dias = ['21', '22', '23', '24', '25']
 plt.xlabel("Dias")
